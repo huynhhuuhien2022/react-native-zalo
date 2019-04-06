@@ -6,17 +6,17 @@ import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
 import com.facebook.react.bridge.Callback;
 
-public class RNZaloModule extends ReactContextBaseJavaModule {
+public class RNRnZaloModule extends ReactContextBaseJavaModule {
 
   private final ReactApplicationContext reactContext;
 
-  public RNZaloModule(ReactApplicationContext reactContext) {
+  public RNRnZaloModule(ReactApplicationContext reactContext) {
     super(reactContext);
     this.reactContext = reactContext;
   }
 
   @Override
   public String getName() {
-    return "RNZalo";
+    return "RNRnZalo";
   }
 }

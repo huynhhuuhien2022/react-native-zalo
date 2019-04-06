@@ -1,18 +1,18 @@
 
 Pod::Spec.new do |s|
-  s.name         = "RNZalo"
+  s.name         = "RNRnZalo"
   s.version      = "1.0.0"
-  s.summary      = "RNZalo"
+  s.summary      = "RNRnZalo"
   s.description  = <<-DESC
-                  RNZalo
+                  RNRnZalo
                    DESC
   s.homepage     = ""
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/author/RNZalo.git", :tag => "master" }
-  s.source_files  = "RNZalo/**/*.{h,m}"
+  s.source       = { :git => "https://github.com/author/RNRnZalo.git", :tag => "master" }
+  s.source_files  = "RNRnZalo/**/*.{h,m}"
   s.requires_arc = true
 
 

@@ -1,8 +1,8 @@
 
-#import "RNZalo.h"
+#import "RNRnZalo.h"
 #import <ZaloSDK/ZaloSDK.h>
 
-@implementation RNZalo
+@implementation RNRnZalo
 
 - (dispatch_queue_t)methodQueue
 {

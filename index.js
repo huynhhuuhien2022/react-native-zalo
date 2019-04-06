@@ -1,6 +1,6 @@
 
 import { NativeModules } from 'react-native';
 
-const { RNZalo } = NativeModules;
+const { RNRnZalo } = NativeModules;
 
-export default RNZalo;
+export default RNRnZalo;
